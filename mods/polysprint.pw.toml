@@ -1,0 +1,13 @@
+name = "PolySprint"
+filename = "PolySprint-1.8.9-forge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i9xRThb3/versions/eW9L5hBb/PolySprint-1.8.9-forge-1.0.0.jar"
+hash-format = "sha1"
+hash = "4074ba17ba96ccf7d3246a3f287955c815851289"
+
+[update]
+[update.modrinth]
+mod-id = "i9xRThb3"
+version = "eW9L5hBb"

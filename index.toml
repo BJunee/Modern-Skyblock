@@ -52,6 +52,11 @@ hash = "cfd4d849dddaadb31758eaf9507c3798c629eaad767dcd02a955920eb545d46e"
 metafile = true
 
 [[files]]
+file = "mods/polysprint.pw.toml"
+hash = "2dbddb39e686d9d16eb35290ab7e9ea77e204d9cd05f6db369c02095f0bafda6"
+metafile = true
+
+[[files]]
 file = "mods/scrollable-tooltips.pw.toml"
 hash = "d50eee53be9745b2bb3019dbf38ae0ed8925b4fd410eaba21048489041111d3b"
 metafile = true
