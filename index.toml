@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "assests/icon.png"
-hash = "eb78156b82f0d426b42a4a8f64de22d6833371ce5d834a0808114d8f94139b27"
-
-[[files]]
-file = "assests/icon_RAW.pdn"
-hash = "fb935f740e031ecad63657271a145ad4b7faef1c4ebdaee941c5363b8b4242c4"
-
-[[files]]
-file = "modpacks/README.md"
-hash = "4c9ad8ec4ca0616446d51053c83fd2b7095ab6d1014eb0680a50f11f2991b9f3"
-
-[[files]]
 file = "mods/crashpatch.pw.toml"
 hash = "261ba909ea6d3137a2f3494efa18c4941cec3cfcff123f9aad9e8ca826916bc2"
 metafile = true
@@ -49,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/polysprint.pw.toml"
-hash = "2dbddb39e686d9d16eb35290ab7e9ea77e204d9cd05f6db369c02095f0bafda6"
+hash = "342ef90aa5ce8962a77ae71512fa474800f93b1110220f31c27fc1ecfd675360"
 metafile = true
 
 [[files]]
