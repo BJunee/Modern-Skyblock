@@ -42,11 +42,20 @@ Modern Skyblock is a QOL modpack designed for ![Hypixel Skyblock](https://hypixe
 </details>
 
 ## Usage
+> **Note for the default launcher and Forge launcher people:**
+> While packwiz (the program that is used to construct the modpack) supports exporting to CurseForge, this project will not support it as of now as the file is too large for GitHub and very few people use the CurseForge app for Hypixel Skyblock anyways. People who want to use the default launcher, you really shoulden't anymore. If you still for whatever reason want to do all your modding in your default lancher, that would require manaully adding each mod and resource pack into their respective directories in the `.minecraft` folder. That is something that this project will not support.
 
 ### Option 1 (recommended for Modrinth users)
+Please go to our ![Modrinth Page](https://modrinth.com/modpack/modern-skyblock) and follow the instructions there.
 
 ### Option 2 (recommended for Prism, MultiMc, GDLauncher, etc. users)
 Download the `.zip` file from the latest and extract on your machine. Once extracted, open your favorite Minecraft launcher and follow your launchers instructions on importing modpacks. It will typically be easiest to import the pack from `.mrpack` file but use whatever is easiest.
+
+## Compiling
+> **NOTE:**
+> Compiling is generally seen as a more advanced operation. Compiling yourself is not necessary for your use on this project unless you are contributing to the project. Adding your own mods is trivial in most mod launchers. Search for guides on how to add your own content through your launcher before re-compiling the project.
+
+Once you have cloned the repository onto your computer, run `packwiz <modrinth|mr> export` to export for Modrinth or run `packwiz <curseforge|cf> export` for a CurseForge version of the pack respectfully. To install packwiz, please follow their intructions and guides on ![their website](https://packwiz.infra.link/).
 
 
 
