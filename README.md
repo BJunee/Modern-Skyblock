@@ -1,7 +1,7 @@
 # Modern Skyblock
 ![Static Badge](https://img.shields.io/badge/made_with-packwiz-blue?link=https%3A%2F%2Fgithub.com%2Fpackwiz%2Fpackwiz)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/BJunee/Modern-Skyblock/total)
-![GitHub License](https://img.shields.io/github/license/BJunee/Modern-Skyblock)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bjunee/modern-skyblock/total)
+![GitHub License](https://img.shields.io/github/license/bjunee/modern-skyblock)
 
 Modern Skyblock is a QOL modpack designed for ![Hypixel Skyblock](https://hypixel.net/). Each mod was considered and has been generally regarded as safe and unbannable for use on the Hypixel server.
 > **NOTE:**
