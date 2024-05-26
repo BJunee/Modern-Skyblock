@@ -1,0 +1,90 @@
+# IMPORTANT:
+# This file was copied from index.toml expect mentions of OptiFine were removed.
+# This was because when posting the project onto Modrinth, because including OptiFine breaks their TOS.
+# Users are expected to download OptiFine them selves.
+# However, if users download from GitHub, the mod pack can be bundled with OptiFine.
+#
+# When compiling, use packwiz mr export --pack-file "noopti.pack.toml"
+
+hash-format = "sha256"
+
+[[files]]
+file = "assests/icon.png"
+hash = "eb78156b82f0d426b42a4a8f64de22d6833371ce5d834a0808114d8f94139b27"
+
+[[files]]
+file = "assests/icon_RAW.pdn"
+hash = "fb935f740e031ecad63657271a145ad4b7faef1c4ebdaee941c5363b8b4242c4"
+
+[[files]]
+file = "modpacks/README.md"
+hash = "4c9ad8ec4ca0616446d51053c83fd2b7095ab6d1014eb0680a50f11f2991b9f3"
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "261ba909ea6d3137a2f3494efa18c4941cec3cfcff123f9aad9e8ca826916bc2"
+metafile = true
+
+[[files]]
+file = "mods/dankers.pw.toml"
+hash = "639cddbb7a8ebfa32f921d36a416fa771e9745c7d293c7092b2f3b79c972423e"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-rooms.pw.toml"
+hash = "db52b1c1f601b7e012b249c52d6c44ae37b0f715e696535f593baf2c2df32dc6"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+hash = "6865cb2dacd4a0d7d83d421e9eff04579b01d15989930ec685e85d25a6a29fdd"
+metafile = true
+
+[[files]]
+file = "mods/notenoughupdates.pw.toml"
+hash = "2e8a7a026033accf74abd824ecae806e78f015ab2f85d45596455bfbc8614e03"
+metafile = true
+
+[[files]]
+file = "mods/patcher.pw.toml"
+hash = "cfd4d849dddaadb31758eaf9507c3798c629eaad767dcd02a955920eb545d46e"
+metafile = true
+
+[[files]]
+file = "mods/polysprint.pw.toml"
+hash = "2dbddb39e686d9d16eb35290ab7e9ea77e204d9cd05f6db369c02095f0bafda6"
+metafile = true
+
+[[files]]
+file = "mods/scrollable-tooltips.pw.toml"
+hash = "d50eee53be9745b2bb3019dbf38ae0ed8925b4fd410eaba21048489041111d3b"
+metafile = true
+
+[[files]]
+file = "mods/skyblockaddons.pw.toml"
+hash = "9d4b68c15d7af6f3e36875010eb82eab430e1dbae2d71dad67b4b8e26e4d22a2"
+metafile = true
+
+[[files]]
+file = "mods/skytils.pw.toml"
+hash = "66fdcdb834a2ee3b4dd43d0c65995d8e1577bcd52112bc082beba65f3920e53a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "c88bebb3c55316325b3c5518bebc8a7ed97aa2d1a390917d7fdaa82f78664677"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hypixel-plus.pw.toml"
+hash = "e1b35d72c105187dbd0c24f6c9698c4246661d671145d75872fc372581b586fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+hash = "cb212361649ec2d48bba572a7b5f1de60cfbc6403db894a3d93de053ef3a366a"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "0963e32f410fb3a1043b027cd8074b872ac63d2a1125378e02c914e5f187778f"

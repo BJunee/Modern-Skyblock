@@ -1,0 +1,21 @@
+# IMPORTANT:
+# This file was copied from pack.toml expect it links properelly to noopti.pack.toml
+# This was because when posting the project onto Modrinth, because including OptiFine breaks their TOS.
+# Users are expected to download OptiFine them selves.
+# However, if users download from GitHub, the mod pack will be bundled with OptiFine.
+#
+# When compiling, use packwiz mr export --pack-file "noopti.pack.toml"
+
+name = "Modern Skyblock"
+author = "BJune"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "noopti.index.toml"
+hash-format = "sha256"
+hash = "af7eec802634936d64342560af8b8509ce2fc6c3ed44daf8f9176f7920501457"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"
