@@ -41,9 +41,12 @@ Modern Skyblock is a QOL modpack designed for ![Hypixel Skyblock](https://hypixe
 - ![Modernity](https://modrinth.com/resourcepack/modernity)
 </details>
 
-
-
 ## Usage
+
+### Option 1 (recommended for Modrinth users)
+
+### Option 2 (recommended for Prism, MultiMc, GDLauncher, etc. users)
+Download the `.zip` file from the latest and extract on your machine. Once extracted, open your favorite Minecraft launcher and follow your launchers instructions on importing modpacks. It will typically be easiest to import the pack from `.mrpack` file but use whatever is easiest.
 
 
 
