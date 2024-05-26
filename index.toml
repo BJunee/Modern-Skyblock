@@ -9,12 +9,8 @@ file = "assests/icon_RAW.pdn"
 hash = "fb935f740e031ecad63657271a145ad4b7faef1c4ebdaee941c5363b8b4242c4"
 
 [[files]]
-file = "modpacks/Modern Skyblock-1.0.0-MODRINTH"
-hash = "b320dfef3975525bfd93f381c495b5aa6972079d7c291988d2cb0185f3e2522a"
-
-[[files]]
 file = "modpacks/README.md"
-hash = "c4efe0b50558afce3b0a54779d79c28efe4632067911b2e4bc9638199566ab00"
+hash = "4c9ad8ec4ca0616446d51053c83fd2b7095ab6d1014eb0680a50f11f2991b9f3"
 
 [[files]]
 file = "mods/crashpatch.pw.toml"
@@ -85,3 +81,7 @@ metafile = true
 file = "resourcepacks/modernity.pw.toml"
 hash = "cb212361649ec2d48bba572a7b5f1de60cfbc6403db894a3d93de053ef3a366a"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "0963e32f410fb3a1043b027cd8074b872ac63d2a1125378e02c914e5f187778f"
