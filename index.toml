@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "icons/icon.png"
+file = "assests/icon.png"
 hash = "eb78156b82f0d426b42a4a8f64de22d6833371ce5d834a0808114d8f94139b27"
 
 [[files]]
-file = "icons/icon_RAW.pdn"
+file = "assests/icon_RAW.pdn"
 hash = "fb935f740e031ecad63657271a145ad4b7faef1c4ebdaee941c5363b8b4242c4"
+
+[[files]]
+file = "modpacks/Modern Skyblock-1.0.0-MODRINTH"
+hash = "b320dfef3975525bfd93f381c495b5aa6972079d7c291988d2cb0185f3e2522a"
+
+[[files]]
+file = "modpacks/README.md"
+hash = "c4efe0b50558afce3b0a54779d79c28efe4632067911b2e4bc9638199566ab00"
 
 [[files]]
 file = "mods/crashpatch.pw.toml"
@@ -60,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "9cdb3bc0efae639f59d5fe23149fe2c9a356415339a04f29f3e93b275740641a"
+hash = "c88bebb3c55316325b3c5518bebc8a7ed97aa2d1a390917d7fdaa82f78664677"
 metafile = true
 
 [[files]]

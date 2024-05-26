@@ -1,12 +1,12 @@
 name = "Modern Skyblock"
 author = "BJune"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b70467d34e148518d21aaa3cfe06afbfe5e5907b0bb66beeea93267a94c95f86"
+hash = "d345dafc1a530dca5fb2a83a759911f53c1b6eca3d05fa463ef807bd0d44f37e"
 
 [versions]
 forge = "11.15.1.2318"
