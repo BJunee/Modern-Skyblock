@@ -1,0 +1,11 @@
+name = "Patcher"
+filename = "patcher.jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/patcher/1.8.9/1.8.9/Patcher-1.8.9%20(1.8.9).jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0974504b3520bac8942ee6742a515f937816390253899b01096320af87c68160"

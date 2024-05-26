@@ -1,0 +1,13 @@
+name = "CrashPatch"
+filename = "CrashPatch-1.8.9-forge-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nZ3E8WQz/versions/5zsfIeMF/CrashPatch-1.8.9-forge-2.0.0.jar"
+hash-format = "sha1"
+hash = "f68604bf255afd04b67b39bdb062d389702ed77c"
+
+[update]
+[update.modrinth]
+mod-id = "nZ3E8WQz"
+version = "5zsfIeMF"

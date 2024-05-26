@@ -1,0 +1,13 @@
+name = "Hypixel Plus"
+filename = "Hypixel+ 0.20.1 for 1.8.9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p6lVqTvA/versions/tpLBa30C/Hypixel%2B%200.20.1%20for%201.8.9.zip"
+hash-format = "sha1"
+hash = "2b04dc6ae79046e81529cc54227adece5469fb16"
+
+[update]
+[update.modrinth]
+mod-id = "p6lVqTvA"
+version = "tpLBa30C"

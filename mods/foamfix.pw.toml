@@ -1,0 +1,13 @@
+name = "FoamFix"
+filename = "foamfix-0.6.3a-anarchy-1.8.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jupr7Bf5/versions/MqLKfrk2/foamfix-0.6.3a-anarchy-1.8.x.jar"
+hash-format = "sha1"
+hash = "58f4f9165f1c91222e33493175c805879e75db6b"
+
+[update]
+[update.modrinth]
+mod-id = "jupr7Bf5"
+version = "MqLKfrk2"

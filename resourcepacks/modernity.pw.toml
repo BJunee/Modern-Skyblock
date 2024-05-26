@@ -1,0 +1,13 @@
+name = "Modernity"
+filename = "Modernity-format1-v3.9.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rx58ZUPu/versions/EmHxLnhv/Modernity-format1-v3.9.1.zip"
+hash-format = "sha1"
+hash = "4935bcaa014aa73c9670b1efbbec421fff635613"
+
+[update]
+[update.modrinth]
+mod-id = "rx58ZUPu"
+version = "EmHxLnhv"
