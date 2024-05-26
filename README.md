@@ -47,10 +47,12 @@ Modern Skyblock is a QOL modpack designed for ![Hypixel Skyblock](https://hypixe
 > While packwiz (the program that is used to construct the modpack) supports exporting to CurseForge, this project will not support it as of now as the file is too large for GitHub and very few people use the CurseForge app for Hypixel Skyblock anyways. People who want to use the default launcher, you really shoulden't anymore. If you still for whatever reason want to do all your modding in your default lancher, that would require manaully adding each mod and resource pack into their respective directories in the `.minecraft` folder. That is something that this project will not support.
 
 ### Option 1 (recommended for Modrinth users)
-Please go to our ![Modrinth Page](https://modrinth.com/modpack/modern-skyblock) and follow the instructions there.
+Download the `Modern Skyblock-<VERSION>.zip` file from the latest release and extract on to your machine. Once extracted, locate the file named `Modern Skyblock-<VERSION>.mrpack` and open it. This will open the Modrinth client and it will start installing
+
+Additionally, you can download the modpack from the ![Modrinth Page](https://modrinth.com/modpack/modern-skyblock). **However, this version does not include OptiFine**. right click the profile (after installation is complete) and click on add content. Then, navigate towards the right of your screen and click on options. Scroll all the way down until you find unpair button. Click it and then you can upload a the .jar file of a 1.8.9 OptiFine download. To avoid this, download the modpack via GitHub and follow the instructions there.
 
 ### Option 2 (recommended for Prism, MultiMc, GDLauncher, etc. users)
-Download the `.zip` file from the latest and extract on your machine. Once extracted, open your favorite Minecraft launcher and follow your launchers instructions on importing modpacks. It will typically be easiest to import the pack from `.mrpack` file but use whatever is easiest.
+Download the `Modern Skyblock-<VERSION>.zip` file from the latest release and extract on to your machine. Once extracted, open your favorite Minecraft launcher and follow your launchers instructions on importing modpacks. It will typically be easiest to import the pack from `.mrpack` file but use whatever is easiest.
 
 ## Compiling
 > **NOTE:**
